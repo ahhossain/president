@@ -1,5 +1,6 @@
 # US Election Data 2000 -2020
 This project is aimed at looking gathering insights from US Election data from 2000 - 2020
+
 All data is contained in 'data.csv'
 
 ## Current Progress:
