@@ -2,7 +2,8 @@
 This project is aimed at looking gathering insights from US Election data from 2000 - 2020
 
 All data is contained in 'data.csv'
-[Data source](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ)
+
+[Data source](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ){:target="_blank"} 
 
 ## Current Progress:
 
