@@ -136,9 +136,11 @@ def compare_county_to_state_by_year(df, state_votes):
             y = 0
     
     #Plot appearance
-    plt.legend(prop={'size': 6})
     plt.xlabel("State/County")
+    plt.legend(prop={'size': 6})
     plt.show(block=False)
+    #if (os.path.isfile('1.png')): os.remove('1.png')
+    #figure.savefig('1.png')
         
 def compare_county_to_state_difference(df, state_votes):
     state_name = 'ARIZONA'
@@ -204,6 +206,8 @@ def compare_county_to_state_difference(df, state_votes):
     #Plot appearance
     plt.legend(prop={'size': 6})
     plt.show(block=False)
+    #if (os.path.isfile('2.png')): os.remove('2.png')
+    #figure.savefig('2.png')
         
         
         
